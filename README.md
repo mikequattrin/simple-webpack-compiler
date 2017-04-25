@@ -1,6 +1,3 @@
 # Simple Webpack Compiler
 
-## ToDo
-1. Add base JS files
-2. Add index.html
-3. Create CSS loader
+Built following the setup guide at [Webpack's Github Page](https://webpack.github.io/docs/tutorials/getting-started/)
